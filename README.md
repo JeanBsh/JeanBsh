@@ -48,9 +48,9 @@
 </td>
 <td width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28" />&ensp;**Restorank** — App mobile IA + Google Places
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" />&ensp;**Restorank** — App mobile IA + Google Places
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" width="28" />&ensp;Recherche **stage 4 mois** — dès Avril 2025
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="28" />&ensp;Recherche **stage 4 mois** — dès Avril 2025
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" width="28" />&ensp;Sports de combat & Photographie
 
