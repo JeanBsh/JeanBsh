@@ -12,13 +12,9 @@
 
 <br/>
 
-<!-- ⌨️ MACHINE À ÉCRIRE -->
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=33E689&center=true&vCenter=true&repeat=true&width=650&height=45&lines=%E2%9C%A6+Full+Stack+Developer+%7C+.NET+%2F+React+%2F+Vue.js;%E2%9C%A6+Recherche+Stage+4+mois+%E2%80%94+D%C3%A8s+Avril+2025;%E2%9C%A6+Architecture+Logicielle+%26+Clean+Code;%E2%9C%A6+Sports+de+Combat+%26+Photographie" alt="Typing SVG" />
 
 <br/><br/>
-
-<!-- 🔗 SOCIALS -->
 
 <a href="https://linkedin.com/in/Jean-Baptiste-Boshra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&ensp;
 <a href="mailto:jb.boshra91@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>&ensp;
@@ -30,7 +26,7 @@
 <br/>
 
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                       À PROPOS                                  ║ -->
+<!-- ║                       ABOUT ME                                  ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
@@ -41,23 +37,21 @@
 
 <br/>
 
-<table align="center">
-<tr><td>
+<div align="center">
 
-```ts
-const jb = {
-    role:       "Full Stack Developer",
-    education:  "3ème année @ Epitech Paris",
-    experience: "Ex-stagiaire @ Expaceo",
-    project:    "Restorank — App mobile IA + Google Places",
-    stack:      [".NET", "React", "Vue.js", "TypeScript", "Node.js"],
-    looking:    "Stage de 4 mois — dès Avril 2025",
-    fun:        ["Sports de combat", "Photographie"],
-};
-```
+🎓&ensp;Étudiant en **3ème année** à **Epitech Paris**
 
-</td></tr>
-</table>
+🏢&ensp;Ex-stagiaire chez **Expaceo** — développement logiciel
+
+🔭&ensp;Projet phare : **Restorank** — App mobile IA + Google Places
+
+💡&ensp;Passionné par l'**architecture logicielle** & le **clean code**
+
+🎯&ensp;En recherche d'un **stage de 4 mois** (dès Avril 2025)
+
+🥊&ensp;Sports de combat &ensp;|&ensp; 📸&ensp;Photographie
+
+</div>
 
 <br/>
 
@@ -99,28 +93,6 @@ const jb = {
 <br/>
 
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    GITHUB ANALYTICS                              ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=300&height=30&lines=%E2%94%80%E2%94%80+GitHub+Analytics+%E2%94%80%E2%94%80" alt="Analytics" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JeanBsh&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=00000000&title_color=ffffff&icon_color=33E689&text_color=8b949e&ring_color=00599C" height="165" alt="stats"/>
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com/?user=JeanBsh&theme=dark&hide_border=true&background=00000000&ring=00599C&fire=33E689&currStreakLabel=33E689&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=555555" height="165" alt="streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JeanBsh&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&title_color=ffffff&text_color=8b949e&langs_count=8" width="380" alt="languages"/>
-
-</div>
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
 <!-- ║              3D ISOMETRIC CONTRIBUTION GRAPH                     ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
@@ -135,6 +107,40 @@ const jb = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeanBsh/JeanBsh/main/profile-3d-contrib/profile-season-animate.svg" />
   <img src="https://raw.githubusercontent.com/JeanBsh/JeanBsh/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
 </picture>
+
+</div>
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                  MY PROGRAMMING LANGUAGES                       ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=400&height=30&lines=%E2%94%80%E2%94%80+My+Programming+Languages+%E2%94%80%E2%94%80" alt="Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JeanBsh&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&title_color=ffffff&text_color=8b949e&langs_count=10" width="420" alt="languages"/>
+
+</div>
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    GITHUB ANALYTICS                              ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=300&height=30&lines=%E2%94%80%E2%94%80+GitHub+Analytics+%E2%94%80%E2%94%80" alt="Analytics" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JeanBsh&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=00000000&title_color=ffffff&icon_color=33E689&text_color=8b949e&ring_color=00599C" height="165" alt="stats"/>
+&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com/?user=JeanBsh&theme=dark&hide_border=true&background=00000000&ring=00599C&fire=33E689&currStreakLabel=33E689&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=555555" height="165" alt="streak"/>
 
 </div>
 
