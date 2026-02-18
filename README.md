@@ -33,23 +33,30 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=250&height=30&lines=%E2%94%80%E2%94%80+About+Me+%E2%94%80%E2%94%80" alt="About" />
 
-</div>
+<br/><br/>
 
-<br/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="28" />&ensp;**Full Stack Developer** — .NET / React / Vue.js
 
-🎓&ensp;Étudiant en **3ème année** à **Epitech Paris**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="28" />&ensp;**3ème année** @ Epitech Paris
 
-🏢&ensp;Ex-stagiaire chez **Expaceo** — développement logiciel
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="28" />&ensp;Ex-stagiaire @ **Expaceo**
 
-🔭&ensp;Projet phare : **Restorank** — App mobile IA + Google Places
+</td>
+<td width="50%" valign="top">
 
-💡&ensp;Passionné par l'**architecture logicielle** & le **clean code**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28" />&ensp;**Restorank** — App mobile IA + Google Places
 
-🎯&ensp;En recherche d'un **stage de 4 mois** (dès Avril 2025)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" width="28" />&ensp;Recherche **stage 4 mois** — dès Avril 2025
 
-🥊&ensp;Sports de combat &ensp;|&ensp; 📸&ensp;Photographie
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" width="28" />&ensp;Sports de combat & Photographie
+
+</td>
+</tr>
+</table>
 
 </div>
 
