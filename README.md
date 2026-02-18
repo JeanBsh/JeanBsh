@@ -33,17 +33,31 @@
 <!-- ║                       À PROPOS                                  ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-```js
-// about.js — Jean-Baptiste Boshra
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=250&height=30&lines=%E2%94%80%E2%94%80+About+Me+%E2%94%80%E2%94%80" alt="About" />
+
+</div>
+
+<br/>
+
+<table align="center">
+<tr><td>
+
+```ts
 const jb = {
+    role:       "Full Stack Developer",
     education:  "3ème année @ Epitech Paris",
-    experience: "Ex-stagiaire @ Expaceo — développement logiciel",
+    experience: "Ex-stagiaire @ Expaceo",
     project:    "Restorank — App mobile IA + Google Places",
-    interests:  ["Architecture Logicielle", "Clean Code", ".NET", "React", "Vue.js"],
-    looking:    "Stage de 4 mois — à partir d'Avril 2025",
-    hobbies:    ["Sports de combat 🥊", "Photographie 📸"],
+    stack:      [".NET", "React", "Vue.js", "TypeScript", "Node.js"],
+    looking:    "Stage de 4 mois — dès Avril 2025",
+    fun:        ["Sports de combat", "Photographie"],
 };
 ```
+
+</td></tr>
+</table>
 
 <br/>
 
@@ -94,25 +108,13 @@ const jb = {
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=JeanBsh&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=00000000&title_color=ffffff&icon_color=33E689&text_color=8b949e&ring_color=00599C" height="165" alt="stats"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JeanBsh&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=00000000&title_color=ffffff&icon_color=33E689&text_color=8b949e&ring_color=00599C" height="165" alt="stats"/>
 &nbsp;&nbsp;
 <img src="https://streak-stats.demolab.com/?user=JeanBsh&theme=dark&hide_border=true&background=00000000&ring=00599C&fire=33E689&currStreakLabel=33E689&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=555555" height="165" alt="streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanBsh&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&title_color=ffffff&text_color=8b949e&langs_count=8" width="380" alt="languages"/>
-
-</div>
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                  ACTIVITY GRAPH                                  ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JeanBsh&bg_color=00000000&color=8b949e&line=33E689&point=ffffff&area=true&area_color=00599C&hide_border=true&custom_title=Contribution%20Timeline" width="95%" alt="activity graph"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JeanBsh&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&title_color=ffffff&text_color=8b949e&langs_count=8" width="380" alt="languages"/>
 
 </div>
 
