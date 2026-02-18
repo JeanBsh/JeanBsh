@@ -127,9 +127,12 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 🧊 GRAPHE 3D DES CONTRIBUTIONS — ISOMÉTRIQUE                     -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--
+═══════════════════════════════════════════════════════════════════════
+🧊 3D CONTRIBUTION GRAPH & 🐍 SNAKE — Activés après lancement des workflows
+Allez dans Actions > "Generate Snake Animation" > Run workflow
+Allez dans Actions > "GitHub Profile 3D Contrib" > Run workflow
+Puis décommentez les sections ci-dessous :
 
 <div align="center">
 
@@ -145,10 +148,6 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 🐍 SNAKE ANIMATION — CONTRIBUTIONS                               -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 ### 🐍 Contribution Snake
@@ -162,6 +161,8 @@
 </div>
 
 ---
+═══════════════════════════════════════════════════════════════════════
+-->
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- 🏆 TROPHÉES GITHUB                                                -->
@@ -171,7 +172,7 @@
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=JeanBsh&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" alt="trophies"/>
+<img src="https://github-trophies.vercel.app/?username=JeanBsh&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" alt="trophies"/>
 
 </div>
 
