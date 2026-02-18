@@ -1,142 +1,132 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 🎨 EN-TÊTE DYNAMIQUE ANIMÉ                                        -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                     HEADER DYNAMIQUE                            ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00599C,100:0d1117&height=300&section=header&text=Jean-Baptiste%20Boshra&fontSize=65&animation=fadeIn&fontAlignY=32&desc=Software%20Engineering%20%E2%80%A2%20Epitech%20Paris&descAlignY=52&descSize=22&fontColor=ffffff)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:161b22,30:00599C,60:33E689,100:0d1117&height=220&section=header&text=&fontSize=0" />
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- ⌨️ TEXTE ANIMÉ — EFFET MACHINE À ÉCRIRE                           -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=35&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=700&height=50&lines=Jean-Baptiste+Boshra" alt="Name" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=33E689&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%92%BB+Full+Stack+Developer+%7C+.NET+%2F+React+%2F+Vue.js;%F0%9F%8E%AF+Recherche+Stage+4+mois+(D%C3%A8s+Avril+2025);%F0%9F%8F%97%EF%B8%8F+Passionn%C3%A9+d'Architecture+Logicielle;%F0%9F%A5%8A+Sports+de+Combat+%26+%F0%9F%93%B8+Photographie" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=16&duration=3000&pause=1000&color=8b949e&center=true&vCenter=true&width=500&height=25&lines=Software+Engineer+%E2%80%A2+Epitech+Paris" alt="Subtitle" />
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 🔗 LIENS SOCIAUX ANIMÉS                                           -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ⌨️ MACHINE À ÉCRIRE -->
 
-<a href="https://linkedin.com/in/Jean-Baptiste-Boshra" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>&nbsp;
-<a href="mailto:jb.boshra91@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>&nbsp;
-<a href="https://github.com/JeanBsh">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-</a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=JeanBsh&style=for-the-badge&color=00599C&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=33E689&center=true&vCenter=true&repeat=true&width=650&height=45&lines=%E2%9C%A6+Full+Stack+Developer+%7C+.NET+%2F+React+%2F+Vue.js;%E2%9C%A6+Recherche+Stage+4+mois+%E2%80%94+D%C3%A8s+Avril+2025;%E2%9C%A6+Architecture+Logicielle+%26+Clean+Code;%E2%9C%A6+Sports+de+Combat+%26+Photographie" alt="Typing SVG" />
+
+<br/><br/>
+
+<!-- 🔗 SOCIALS -->
+
+<a href="https://linkedin.com/in/Jean-Baptiste-Boshra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&ensp;
+<a href="mailto:jb.boshra91@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>&ensp;
+<a href="https://github.com/JeanBsh"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Github"/></a>&ensp;
+<img src="https://komarev.com/ghpvc/?username=JeanBsh&style=flat-square&color=00599C&label=views" alt="Views"/>
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 👤 À PROPOS DE MOI                                                -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<br/>
 
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380" alt="coding gif"/>
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                       À PROPOS                                  ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-### &nbsp;🧑‍💻 À propos de moi
+```js
+// about.js — Jean-Baptiste Boshra
+const jb = {
+    education:  "3ème année @ Epitech Paris",
+    experience: "Ex-stagiaire @ Expaceo — développement logiciel",
+    project:    "Restorank — App mobile IA + Google Places",
+    interests:  ["Architecture Logicielle", "Clean Code", ".NET", "React", "Vue.js"],
+    looking:    "Stage de 4 mois — à partir d'Avril 2025",
+    hobbies:    ["Sports de combat 🥊", "Photographie 📸"],
+};
+```
 
-&nbsp;&nbsp;&nbsp;🎓 Étudiant en 3ème année à **Epitech Paris**\
-&nbsp;&nbsp;&nbsp;🏢 Ex-stagiaire chez **Expaceo** — développement logiciel\
-&nbsp;&nbsp;&nbsp;🔭 Projet phare : **Restorank** — App mobile IA + Google Places\
-&nbsp;&nbsp;&nbsp;💡 Passionné par l'**architecture logicielle** & le **clean code**\
-&nbsp;&nbsp;&nbsp;🎯 En recherche d'un **stage de 4 mois** (dès Avril 2025)\
-&nbsp;&nbsp;&nbsp;🥊 Sports de combat & 📸 Photographie
+<br/>
 
-<br clear="both"/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 🛠️ TECH STACK — ICÔNES ANIMÉES                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                      TECH STACK                                 ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-### 🛠️ Tech Stack & Outils
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=250&height=30&lines=%E2%94%80%E2%94%80+Tech+Stack+%E2%94%80%E2%94%80" alt="Tech Stack" />
+
+<br/><br/>
 
 <table>
-<tr><td align="center" width="50%">
-
-**Backend & Langages**
-
-<img src="https://skillicons.dev/icons?i=dotnet,cs,c,cpp,powershell,nodejs&perline=6&theme=dark" alt="Backend Skills"/>
-
-</td><td align="center" width="50%">
-
-**Frontend & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=react,vue,nextjs,ts,html,css&perline=6&theme=dark" alt="Frontend Skills"/>
-
-</td></tr>
-<tr><td align="center" width="50%">
-
-**Bases de Données & Cloud**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,netlify,docker,azure&perline=6&theme=dark" alt="DB & Cloud Skills"/>
-
-</td><td align="center" width="50%">
-
-**Outils & Workflow**
-
-<img src="https://skillicons.dev/icons?i=git,github,figma,notion,vscode,cmake&perline=6&theme=dark" alt="Tools"/>
-
-</td></tr>
+<tr>
+<td align="center"><b>Backend</b></td>
+<td align="center"><b>Frontend</b></td>
+<td align="center"><b>Data & Cloud</b></td>
+<td align="center"><b>Tools</b></td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=dotnet,cs,c,cpp&perline=2&theme=dark" />
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react,vue,nextjs,ts&perline=2&theme=dark" />
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,docker&perline=2&theme=dark" />
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode&perline=2&theme=dark" />
+</td>
+</tr>
 </table>
 
 </div>
 
----
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 📊 STATISTIQUES "PRO" — STATS + STREAK + LANGAGES                 -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    GITHUB ANALYTICS                              ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-### 📊 GitHub Analytics
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=300&height=30&lines=%E2%94%80%E2%94%80+GitHub+Analytics+%E2%94%80%E2%94%80" alt="Analytics" />
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=JeanBsh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=00599C&icon_color=33E689&text_color=c9d1d9" height="180" alt="stats"/>
-  &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=JeanBsh&theme=tokyonight&hide_border=true&background=0d1117&ring=00599C&fire=33E689&currStreakLabel=33E689&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=555555" height="180" alt="streak"/>
-</p>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanBsh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00599C&text_color=c9d1d9&langs_count=10" width="420" alt="languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JeanBsh&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=00000000&title_color=ffffff&icon_color=33E689&text_color=8b949e&ring_color=00599C" height="165" alt="stats"/>
+&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com/?user=JeanBsh&theme=dark&hide_border=true&background=00000000&ring=00599C&fire=33E689&currStreakLabel=33E689&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=555555" height="165" alt="streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanBsh&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&title_color=ffffff&text_color=8b949e&langs_count=8" width="380" alt="languages"/>
 
 </div>
 
----
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 📈 GRAPHE D'ACTIVITÉ                                              -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                  ACTIVITY GRAPH                                  ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-### 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JeanBsh&theme=tokyo-night&hide_border=true&area=true&area_color=00599C&line=33E689&point=ffffff&bg_color=0d1117&color=c9d1d9&custom_title=Contribution%20Timeline" width="95%" alt="activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JeanBsh&bg_color=00000000&color=8b949e&line=33E689&point=ffffff&area=true&area_color=00599C&hide_border=true&custom_title=Contribution%20Timeline" width="95%" alt="activity graph"/>
 
 </div>
 
----
+<br/>
 
-<!--
-═══════════════════════════════════════════════════════════════════════
-🧊 3D CONTRIBUTION GRAPH & 🐍 SNAKE — Activés après lancement des workflows
-Allez dans Actions > "Generate Snake Animation" > Run workflow
-Allez dans Actions > "GitHub Profile 3D Contrib" > Run workflow
-Puis décommentez les sections ci-dessous :
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║              3D ISOMETRIC CONTRIBUTION GRAPH                     ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-### 🧊 3D Contribution Graph
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=350&height=30&lines=%E2%94%80%E2%94%80+3D+Contribution+Map+%E2%94%80%E2%94%80" alt="3D" />
+
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeanBsh/JeanBsh/main/profile-3d-contrib/profile-night-rainbow.svg" />
@@ -146,11 +136,13 @@ Puis décommentez les sections ci-dessous :
 
 </div>
 
----
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                   SNAKE ANIMATION                                ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-
-### 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeanBsh/JeanBsh/output/github-contribution-grid-snake-dark.svg" />
@@ -160,34 +152,22 @@ Puis décommentez les sections ci-dessous :
 
 </div>
 
----
-═══════════════════════════════════════════════════════════════════════
--->
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 🏆 TROPHÉES GITHUB                                                -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                      TROPHIES                                   ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-### 🏆 GitHub Trophies
-
-<img src="https://github-trophies.vercel.app/?username=JeanBsh&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" alt="trophies"/>
+<img src="https://github-trophies.vercel.app/?username=JeanBsh&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6" width="90%" alt="trophies"/>
 
 </div>
 
----
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 🎵 FOOTER DYNAMIQUE                                               -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                       FOOTER                                    ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%E2%80%99s%20bad.&author=Cory%20House" alt="Dev Quote" width="520"/>
-
-<br/><br/>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00599C,100:0d1117&height=120&section=footer)
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:161b22,30:00599C,60:33E689,100:0d1117&height=120&section=footer" />
